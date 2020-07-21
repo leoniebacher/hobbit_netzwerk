@@ -3,28 +3,28 @@
 from = id des Knoten
 to = id des Knoten
 
-**medium
+**medium**
 
 1= book
 2= film
 
-book chapter
+**book chapter**
 
 Kapitel 1 bis 19
 
-film section
+**film section**
 
 1= part 1
 2= part 2
 3= part 3
 
-weight
+**weight**
 
 1= keine Beziehung
 2= schwache Beziehung
 3= starke Beziehung 
 
-relationship
+**relationship**
 
 1= Freundschaft
 2= Allianz 
@@ -32,19 +32,20 @@ relationship
 4= Familie
 
 
-NODE-Attribute
 
-id
+**NODE-Attribute**
+
+**id**
 
 Identische ID wie aus der edgelist zur Identifikation der Knoten. In diesem Fall sind alle personenbezogenen Daten aus der Hobbit Buch- und Filmreihe.
 
-sex
+**sex**
 
 1= weiblich
 2= männlich
 3= unknown
 
-age
+**age**
 
 1= bis 50 Jahre
 2= 50 bis 100 Jahre
@@ -52,7 +53,7 @@ age
 4= 150 bis 200 Jahre
 5= über 200 Jahre
 
-origin
+**origin**
 
 1= Hobbit
 2= Elb
@@ -61,7 +62,7 @@ origin
 5= Zwerg
 6= Istari
 
-location
+**location**
 
 1= Das Auenland
 2= Erebor
