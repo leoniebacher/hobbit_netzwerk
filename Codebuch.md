@@ -72,3 +72,6 @@ Identische ID wie aus der edgelist zur Identifikation der Knoten. In diesem Fall
 5= Das Nebelgebirge
 6= Beorns Halle
 7= Esgaroth
+8= Moria
+9= Blauer Berg
+10= Valinor
