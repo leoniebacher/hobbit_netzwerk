@@ -30,6 +30,7 @@ Kapitel 1 bis 19
 2= Allianz 
 3= Feind
 4= Familie
+5= Fremde
 
 
 
