@@ -75,3 +75,5 @@ Identische ID wie aus der edgelist zur Identifikation der Knoten. In diesem Fall
 8= Moria
 9= Blauer Berg
 10= Valinor
+11= Mittelerde
+12= Isengart
