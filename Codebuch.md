@@ -5,8 +5,9 @@ to = id des Knoten
 
 **medium**
 
-1= book
-2= film
+1= Buch
+2= Film
+3= Film und Buch
 
 **book chapter**
 
@@ -31,7 +32,7 @@ Kapitel 1 bis 19
 3= Feind
 4= Familie
 5= Fremde
-
+6= Liebe
 
 
 **NODE-Attribute**
@@ -53,6 +54,7 @@ Identische ID wie aus der edgelist zur Identifikation der Knoten. In diesem Fall
 3= 100 bis 150 Jahre
 4= 150 bis 200 Jahre
 5= über 200 Jahre
+99= unknown
 
 **origin**
 
@@ -62,6 +64,10 @@ Identische ID wie aus der edgelist zur Identifikation der Knoten. In diesem Fall
 4= Mensch
 5= Zwerg
 6= Istari
+7= Hautwechsler
+8= Maia
+9= Troll
+10= Drache
 
 **location**
 
@@ -75,5 +81,6 @@ Identische ID wie aus der edgelist zur Identifikation der Knoten. In diesem Fall
 8= Moria
 9= Blauer Berg
 10= Valinor
-11= Mittelerde
-12= Isengart
+11= Bree
+12= Mittelerde
+13= Isengart
