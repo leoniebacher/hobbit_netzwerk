@@ -21,9 +21,8 @@ Kapitel 1 bis 19
 
 **weight**
 
-1= keine Beziehung
-2= schwache Beziehung
-3= starke Beziehung 
+1= schwache Beziehung
+2= starke Beziehung 
 
 **relationship**
 
