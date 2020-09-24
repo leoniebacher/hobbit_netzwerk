@@ -81,5 +81,4 @@ Identische ID wie aus der edgelist zur Identifikation der Knoten. In diesem Fall
 9= Blauer Berg
 10= Valinor
 11= Bree
-12= Mittelerde
-13= Isengart
+12= Isengart
