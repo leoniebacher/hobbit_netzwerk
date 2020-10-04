@@ -24,6 +24,7 @@
 **EDGE-Attribute (Netzwerk)**
 
 **from** = id des Knoten
+
 **to** = id des Knoten
 
 **weight**
