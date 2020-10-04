@@ -92,3 +92,5 @@
 <p>1= Buch
 <p>2= Film
 <p>3= Film und Buch
+  
+  **99=fehlender Wert**
