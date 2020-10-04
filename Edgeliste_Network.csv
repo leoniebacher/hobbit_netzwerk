@@ -1,0 +1,1304 @@
+from,to,weight,relationship
+Gandalf,Bilbo,2,1
+Gandalf,Thorin,2,2
+Gandalf,Bifur,2,2
+Gandalf,Bofur,2,2
+Gandalf,Fili,2,2
+Gandalf,Kili,2,2
+Gandalf,Dori,2,2
+Gandalf,Nori,2,2
+Gandalf,Ori,2,2
+Gandalf,Oin,2,2
+Gandalf,Gloin,2,2
+Gandalf,Balin,2,2
+Gandalf,Dwalin,2,2
+Gandalf,Bombur,2,2
+Gandalf,Alfrid,1,2
+Gandalf,Bard,1,2
+Gandalf,Beorn,2,2
+Gandalf,Legolas,1,2
+Gandalf,Tauriel,1,2
+Gandalf,Thranduil,2,2
+Gandalf,Azog,1,3
+Gandalf,Bolg,1,3
+Gandalf,Grinnah,1,3
+Gandalf,Yazneg,1,3
+Gandalf,Großer Goblin,1,3
+Gandalf,Goblin-Schreiber,1,3
+Gandalf,Nekromant,1,3
+Gandalf,Bert,1,3
+Gandalf,Bill,1,3
+Gandalf,Tom,1,3
+Gandalf,Elrond,2,1
+Gandalf,Galadriel,2,1
+Gandalf,Radagast,2,1
+Gandalf,Saruman,2,1
+Gandalf,Dain II,1,2
+Gandalf,Thrain II,1,1
+Gandalf,Wirt Butterblume,1,5
+Gandalf,Betsy,1,5
+Gandalf,Verlieswächter,1,3
+Bilbo,Gandalf,2,1
+Bilbo,Thorin,2,1
+Bilbo,Bifur,2,1
+Bilbo,Bofur,2,1
+Bilbo,Fili,2,1
+Bilbo,Kili,2,1
+Bilbo,Dori,2,1
+Bilbo,Nori,2,1
+Bilbo,Ori,2,1
+Bilbo,Oin,2,1
+Bilbo,Gloin,2,1
+Bilbo,Balin,2,1
+Bilbo,Dwalin,2,1
+Bilbo,Bombur,2,1
+Bilbo,Gollum,1,5
+Bilbo,Alfrid,1,5
+Bilbo,Bard,1,2
+Bilbo,Beorn,2,2
+Bilbo,Bain,1,2
+Bilbo,Braga,1,2
+Bilbo,Galion,1,5
+Bilbo,Legolas,1,2
+Bilbo,Meister der Seestadt,1,5
+Bilbo,Sigrid,1,2
+Bilbo,Tauriel,1,2
+Bilbo,Thranduil,1,2
+Bilbo,Tilda,1,2
+Bilbo,Hilda Bianca,1,2
+Bilbo,Azog,1,3
+Bilbo,Bolg,1,3
+Bilbo,Fimbul,1,3
+Bilbo,Grinnah,1,3
+Bilbo,Yazneg,1,3
+Bilbo,Großer Goblin,1,3
+Bilbo,Goblin-Schreiber,1,3
+Bilbo,Nekromant,1,3
+Bilbo,Bert,1,3
+Bilbo,Bill,1,3
+Bilbo,Tom,1,3
+Bilbo,Elrond,1,1
+Bilbo,Radagast,1,2
+Bilbo,Dain II,1,2
+Bilbo,Smaug,1,3
+Bilbo,Belladonna Beutlin,2,4
+Bilbo,Bill,2,4
+Bilbo,Frodo,2,4
+Bilbo,Tosser,1,5
+Thorin,Bilbo,2,1
+Thorin,Gandalf,2,1
+Thorin,Bifur,2,4
+Thorin,Bofur,2,4
+Thorin,Fili,2,4
+Thorin,Kili,2,4
+Thorin,Dori,2,4
+Thorin,Nori,2,4
+Thorin,Ori,2,4
+Thorin,Oin,2,4
+Thorin,Gloin,2,4
+Thorin,Balin,2,4
+Thorin,Dwalin,2,4
+Thorin,Bombur,2,4
+Thorin,Alfrid,1,5
+Thorin,Bard,1,2
+Thorin,Beorn,1,2
+Thorin,Bain,1,2
+Thorin,Braga,1,2
+Thorin,Legolas,1,2
+Thorin,Meister der Seestadt,1,2
+Thorin,Sigrid,1,2
+Thorin,Tauriel,1,2
+Thorin,Thranduil,1,2
+Thorin,Tilda,1,2
+Thorin,Hilda Bianca,1,2
+Thorin,Azog,1,3
+Thorin,Bolg,1,3
+Thorin,Fimbul,1,3
+Thorin,Grinnah,1,3
+Thorin,Yazneg,1,3
+Thorin,Großer Goblin,1,3
+Thorin,Goblin-Schreiber,1,3
+Thorin,Narzug,1,3
+Thorin,Bert,1,3
+Thorin,Bill,1,3
+Thorin,Tom,1,3
+Thorin,Elrond,1,2
+Thorin,Radagast,1,2
+Thorin,Dain II,2,4
+Thorin,Smaug,1,3
+Thorin,Thror,2,4
+Thorin,Thrain II,2,4
+Thorin,Wirt Butterblume,1,5
+Thorin,Betsy,1,5
+Bifur,Bilbo,2,1
+Bifur,Thorin,2,4
+Bifur,Gandalf,2,2
+Bifur,Bofur,2,4
+Bifur,Fili,2,4
+Bifur,Kili,2,4
+Bifur,Dori,2,4
+Bifur,Nori,2,4
+Bifur,Ori,2,4
+Bifur,Oin,2,4
+Bifur,Gloin,2,4
+Bifur,Balin,2,4
+Bifur,Dwalin,2,4
+Bifur,Bombur,2,4
+Bifur,Alfrid,1,5
+Bifur,Bard,1,2
+Bifur,Beorn,1,2
+Bifur,Bain,1,2
+Bifur,Braga,1,2
+Bifur,Legolas,1,2
+Bifur,Meister der Seestadt,1,2
+Bifur,Sigrid,1,2
+Bifur,Tauriel,1,2
+Bifur,Thranduil,1,2
+Bifur,Tilda,1,2
+Bifur,Hilda Bianca,1,2
+Bifur,Azog,1,3
+Bifur,Bolg,1,3
+Bifur,Fimbul,1,3
+Bifur,Grinnah,1,3
+Bifur,Yazneg,1,3
+Bifur,Großer Goblin,1,3
+Bifur,Goblin-Schreiber,1,3
+Bifur,Narzug,1,3
+Bifur,Bert,1,3
+Bifur,Bill,1,3
+Bifur,Tom,1,3
+Bifur,Elrond,1,2
+Bifur,Radagast,1,2
+Bifur,Dain II,2,4
+Bifur,Smaug,1,3
+Bifur,Thror,1,4
+Bifur,Thrain II,2,4
+Bofur,Bilbo,2,1
+Bofur,Thorin,2,4
+Bofur,Bifur,2,4
+Bofur,Gandalf,2,2
+Bofur,Fili,2,4
+Bofur,Kili,2,4
+Bofur,Dori,2,4
+Bofur,Nori,2,4
+Bofur,Ori,2,4
+Bofur,Oin,2,4
+Bofur,Gloin,2,4
+Bofur,Balin,2,4
+Bofur,Dwalin,2,4
+Bofur,Bombur,2,4
+Bofur,Alfrid,1,5
+Bofur,Bard,1,2
+Bofur,Beorn,1,2
+Bofur,Bain,1,2
+Bofur,Braga,1,2
+Bofur,Legolas,1,2
+Bofur,Meister der Seestadt,1,2
+Bofur,Sigrid,1,2
+Bofur,Tauriel,1,2
+Bofur,Thranduil,1,2
+Bofur,Tilda,1,2
+Bofur,Hilda Bianca,1,2
+Bofur,Azog,1,3
+Bofur,Bolg,1,3
+Bofur,Fimbul,1,3
+Bofur,Grinnah,1,3
+Bofur,Yazneg,1,3
+Bofur,Großer Goblin,1,3
+Bofur,Goblin-Schreiber,1,3
+Bofur,Narzug,1,3
+Bofur,Bert,1,3
+Bofur,Bill,1,3
+Bofur,Tom,1,3
+Bofur,Elrond,1,2
+Bofur,Radagast,1,2
+Bofur,Dain II,2,4
+Bofur,Smaug,1,3
+Bofur,Thror,1,4
+Bofur,Thrain II,2,4
+Fili,Bilbo,2,1
+Fili,Thorin,2,4
+Fili,Bifur,2,4
+Fili,Bofur,2,4
+Fili,Gandalf,2,2
+Fili,Kili,2,4
+Fili,Dori,2,4
+Fili,Nori,2,4
+Fili,Ori,2,4
+Fili,Oin,2,4
+Fili,Gloin,2,4
+Fili,Balin,2,4
+Fili,Dwalin,2,4
+Fili,Bombur,2,4
+Fili,Alfrid,1,5
+Fili,Bard,1,2
+Fili,Beorn,1,2
+Fili,Bain,1,2
+Fili,Braga,1,2
+Fili,Legolas,1,2
+Fili,Meister der Seestadt,1,2
+Fili,Sigrid,1,2
+Fili,Tauriel,1,2
+Fili,Thranduil,1,2
+Fili,Tilda,1,2
+Fili,Hilda Bianca,1,2
+Fili,Azog,1,3
+Fili,Bolg,1,3
+Fili,Fimbul,1,3
+Fili,Grinnah,1,3
+Fili,Yazneg,1,3
+Fili,Großer Goblin,1,3
+Fili,Goblin-Schreiber,1,3
+Fili,Narzug,1,3
+Fili,Bert,1,3
+Fili,Bill,1,3
+Fili,Tom,1,3
+Fili,Elrond,1,2
+Fili,Radagast,1,2
+Fili,Dain II,2,4
+Fili,Smaug,1,3
+Fili,Thror,1,4
+Fili,Thrain II,2,4
+Kili,Bilbo,2,1
+Kili,Thorin,2,4
+Kili,Bifur,2,4
+Kili,Bofur,2,4
+Kili,Fili,2,4
+Kili,Gandalf,2,2
+Kili,Dori,2,4
+Kili,Nori,2,4
+Kili,Ori,2,4
+Kili,Oin,2,4
+Kili,Gloin,2,4
+Kili,Balin,2,4
+Kili,Dwalin,2,4
+Kili,Bombur,2,4
+Kili,Alfrid,1,5
+Kili,Bard,1,2
+Kili,Beorn,1,2
+Kili,Bain,1,2
+Kili,Braga,1,2
+Kili,Legolas,1,2
+Kili,Meister der Seestadt,1,2
+Kili,Sigrid,1,2
+Kili,Tauriel,2,6
+Kili,Thranduil,1,2
+Kili,Tilda,1,2
+Kili,Hilda Bianca,1,2
+Kili,Azog,1,3
+Kili,Bolg,1,3
+Kili,Fimbul,1,3
+Kili,Grinnah,1,3
+Kili,Yazneg,1,3
+Kili,Großer Goblin,1,3
+Kili,Goblin-Schreiber,1,3
+Kili,Narzug,1,3
+Kili,Bert,1,3
+Kili,Bill,1,3
+Kili,Tom,1,3
+Kili,Elrond,1,2
+Kili,Radagast,1,2
+Kili,Dain II,2,4
+Kili,Smaug,1,3
+Kili,Thror,1,4
+Kili,Thrain II,2,4
+Dori,Bilbo,2,1
+Dori,Thorin,2,4
+Dori,Bifur,2,4
+Dori,Bofur,2,4
+Dori,Fili,2,4
+Dori,Kili,2,4
+Dori,Gandalf,2,2
+Dori,Nori,2,4
+Dori,Ori,2,4
+Dori,Oin,2,4
+Dori,Gloin,2,4
+Dori,Balin,2,4
+Dori,Dwalin,2,4
+Dori,Bombur,2,4
+Dori,Alfrid,1,5
+Dori,Bard,1,2
+Dori,Beorn,1,2
+Dori,Bain,1,2
+Dori,Braga,1,2
+Dori,Legolas,1,2
+Dori,Meister der Seestadt,1,2
+Dori,Sigrid,1,2
+Dori,Tauriel,1,2
+Dori,Thranduil,1,2
+Dori,Tilda,1,2
+Dori,Hilda Bianca,1,2
+Dori,Azog,1,3
+Dori,Bolg,1,3
+Dori,Fimbul,1,3
+Dori,Grinnah,1,3
+Dori,Yazneg,1,3
+Dori,Großer Goblin,1,3
+Dori,Goblin-Schreiber,1,3
+Dori,Narzug,1,3
+Dori,Bert,1,3
+Dori,Bill,1,3
+Dori,Tom,1,3
+Dori,Elrond,1,2
+Dori,Radagast,1,2
+Dori,Dain II,2,4
+Dori,Smaug,1,3
+Dori,Thror,1,4
+Dori,Thrain II,2,4
+Nori,Gandalf,2,2
+Nori,Bilbo,2,1
+Nori,Thorin,2,4
+Nori,Bifur,2,4
+Nori,Bofur,2,4
+Nori,Fili,2,4
+Nori,Kili,2,4
+Nori,Dori,2,4
+Nori,Ori,2,4
+Nori,Oin,2,4
+Nori,Gloin,2,4
+Nori,Balin,2,4
+Nori,Dwalin,2,4
+Nori,Bombur,2,4
+Nori,Alfrid,1,5
+Nori,Bard,1,2
+Nori,Beorn,1,2
+Nori,Bain,1,2
+Nori,Braga,1,2
+Nori,Legolas,1,2
+Nori,Meister der Seestadt,1,2
+Nori,Sigrid,1,2
+Nori,Tauriel,1,2
+Nori,Thranduil,1,2
+Nori,Tilda,1,2
+Nori,Hilda Bianca,1,2
+Nori,Azog,1,3
+Nori,Bolg,1,3
+Nori,Fimbul,1,3
+Nori,Grinnah,1,3
+Nori,Yazneg,1,3
+Nori,Großer Goblin,1,3
+Nori,Goblin-Schreiber,1,3
+Nori,Narzug,1,3
+Nori,Bert,1,3
+Nori,Bill,1,3
+Nori,Tom,1,3
+Nori,Elrond,1,2
+Nori,Radagast,1,2
+Nori,Dain II,2,4
+Nori,Smaug,1,3
+Nori,Thror,1,4
+Nori,Thrain II,2,4
+Ori,Gandalf,2,2
+Ori,Bilbo,2,1
+Ori,Thorin,2,4
+Ori,Bifur,2,4
+Ori,Bofur,2,4
+Ori,Fili,2,4
+Ori,Kili,2,4
+Ori,Nori,2,4
+Ori,Oin,2,4
+Ori,Gloin,2,4
+Ori,Balin,2,4
+Ori,Dwalin,2,4
+Ori,Bombur,2,4
+Ori,Alfrid,1,5
+Ori,Bard,1,2
+Ori,Beorn,1,2
+Ori,Bain,1,2
+Ori,Braga,1,2
+Ori,Legolas,1,2
+Ori,Meister der Seestadt,1,2
+Ori,Sigrid,1,2
+Ori,Tauriel,1,2
+Ori,Thranduil,1,2
+Ori,Tilda,1,2
+Ori,Hilda Bianca,1,2
+Ori,Azog,1,3
+Ori,Bolg,1,3
+Ori,Fimbul,1,3
+Ori,Grinnah,1,3
+Ori,Yazneg,1,3
+Ori,Großer Goblin,1,3
+Ori,Goblin-Schreiber,1,3
+Ori,Narzug,1,3
+Ori,Bert,1,3
+Ori,Bill,1,3
+Ori,Tom,1,3
+Ori,Elrond,1,2
+Ori,Radagast,1,2
+Ori,Dain II,2,4
+Ori,Smaug,1,3
+Ori,Thror,1,4
+Ori,Thrain II,2,4
+Oin,Gandalf,2,2
+Oin,Bilbo,2,1
+Oin,Thorin,2,4
+Oin,Bifur,2,4
+Oin,Bofur,2,4
+Oin,Fili,2,4
+Oin,Kili,2,4
+Oin,Nori,2,4
+Oin,Ori,2,4
+Oin,Gloin,2,4
+Oin,Balin,2,4
+Oin,Dwalin,2,4
+Oin,Bombur,2,4
+Oin,Alfrid,1,5
+Oin,Bard,1,2
+Oin,Beorn,1,2
+Oin,Bain,1,2
+Oin,Braga,1,2
+Oin,Legolas,1,2
+Oin,Meister der Seestadt,1,2
+Oin,Sigrid,1,2
+Oin,Tauriel,1,2
+Oin,Thranduil,1,2
+Oin,Tilda,1,2
+Oin,Hilda Bianca,1,2
+Oin,Azog,1,3
+Oin,Bolg,1,3
+Oin,Fimbul,1,3
+Oin,Grinnah,1,3
+Oin,Yazneg,1,3
+Oin,Großer Goblin,1,3
+Oin,Goblin-Schreiber,1,3
+Oin,Narzug,1,3
+Oin,Bert,1,3
+Oin,Bill,1,3
+Oin,Tom,1,3
+Oin,Elrond,1,2
+Oin,Radagast,1,2
+Oin,Dain II,2,4
+Oin,Smaug,1,3
+Oin,Thror,1,4
+Oin,Thrain II,2,4
+Gloin,Gandalf,2,2
+Gloin,Bilbo,2,1
+Gloin,Thorin,2,4
+Gloin,Bifur,2,4
+Gloin,Bofur,2,4
+Gloin,Fili,2,4
+Gloin,Kili,2,4
+Gloin,Nori,2,4
+Gloin,Ori,2,4
+Gloin,Oin,2,4
+Gloin,Balin,2,4
+Gloin,Dwalin,2,4
+Gloin,Bombur,2,4
+Gloin,Alfrid,1,5
+Gloin,Bard,1,2
+Gloin,Beorn,1,2
+Gloin,Bain,1,2
+Gloin,Braga,1,2
+Gloin,Legolas,1,2
+Gloin,Meister der Seestadt,1,2
+Gloin,Sigrid,1,2
+Gloin,Tauriel,1,2
+Gloin,Thranduil,1,2
+Gloin,Tilda,1,2
+Gloin,Hilda Bianca,1,2
+Gloin,Azog,1,3
+Gloin,Bolg,1,3
+Gloin,Fimbul,1,3
+Gloin,Grinnah,1,3
+Gloin,Yazneg,1,3
+Gloin,Großer Goblin,1,3
+Gloin,Goblin-Schreiber,1,3
+Gloin,Narzug,1,3
+Gloin,Bert,1,3
+Gloin,Bill,1,3
+Gloin,Tom,1,3
+Gloin,Elrond,1,2
+Gloin,Radagast,1,2
+Gloin,Dain II,2,4
+Gloin,Smaug,1,3
+Gloin,Thror,1,4
+Gloin,Thrain II,2,4
+Balin,Gandalf,2,2
+Balin,Bilbo,2,1
+Balin,Thorin,2,4
+Balin,Bifur,2,4
+Balin,Bofur,2,4
+Balin,Fili,2,4
+Balin,Kili,2,4
+Balin,Nori,2,4
+Balin,Ori,2,4
+Balin,Oin,2,4
+Balin,Gloin,2,4
+Balin,Dwalin,2,4
+Balin,Bombur,2,4
+Balin,Alfrid,1,5
+Balin,Bard,1,2
+Balin,Beorn,1,2
+Balin,Bain,1,2
+Balin,Braga,1,2
+Balin,Legolas,1,2
+Balin,Meister der Seestadt,1,2
+Balin,Sigrid,1,2
+Balin,Tauriel,1,2
+Balin,Thranduil,1,2
+Balin,Tilda,1,2
+Balin,Hilda Bianca,1,2
+Balin,Azog,1,3
+Balin,Bolg,1,3
+Balin,Fimbul,1,3
+Balin,Grinnah,1,3
+Balin,Yazneg,1,3
+Balin,Großer Goblin,1,3
+Balin,Goblin-Schreiber,1,3
+Balin,Narzug,1,3
+Balin,Bert,1,3
+Balin,Bill,1,3
+Balin,Tom,1,3
+Balin,Elrond,1,2
+Balin,Radagast,1,2
+Balin,Dain II,2,4
+Balin,Smaug,1,3
+Balin,Thror,1,4
+Balin,Thrain II,2,4
+Dwalin,Gandalf,2,2
+Dwalin,Bilbo,2,1
+Dwalin,Thorin,2,4
+Dwalin,Bifur,2,4
+Dwalin,Bofur,2,4
+Dwalin,Fili,2,4
+Dwalin,Kili,2,4
+Dwalin,Nori,2,4
+Dwalin,Ori,2,4
+Dwalin,Oin,2,4
+Dwalin,Gloin,2,4
+Dwalin,Balin,2,4
+Dwalin,Bombur,2,4
+Dwalin,Alfrid,1,5
+Dwalin,Bard,1,2
+Dwalin,Beorn,1,2
+Dwalin,Bain,1,2
+Dwalin,Braga,1,2
+Dwalin,Legolas,1,2
+Dwalin,Meister der Seestadt,1,2
+Dwalin,Sigrid,1,2
+Dwalin,Tauriel,1,2
+Dwalin,Thranduil,1,2
+Dwalin,Tilda,1,2
+Dwalin,Hilda Bianca,1,2
+Dwalin,Azog,1,3
+Dwalin,Bolg,1,3
+Dwalin,Fimbul,1,3
+Dwalin,Grinnah,1,3
+Dwalin,Yazneg,1,3
+Dwalin,Großer Goblin,1,3
+Dwalin,Goblin-Schreiber,1,3
+Dwalin,Narzug,1,3
+Dwalin,Bert,1,3
+Dwalin,Bill,1,3
+Dwalin,Tom,1,3
+Dwalin,Elrond,1,2
+Dwalin,Radagast,1,2
+Dwalin,Dain II,2,4
+Dwalin,Smaug,1,3
+Dwalin,Thror,1,4
+Dwalin,Thrain II,2,4
+Bombur,Gandalf,2,2
+Bombur,Bilbo,2,1
+Bombur,Thorin,2,4
+Bombur,Bifur,2,4
+Bombur,Bofur,2,4
+Bombur,Fili,2,4
+Bombur,Kili,2,4
+Bombur,Nori,2,4
+Bombur,Ori,2,4
+Bombur,Oin,2,4
+Bombur,Gloin,2,4
+Bombur,Balin,2,4
+Bombur,Dwalin,2,4
+Bombur,Alfrid,1,5
+Bombur,Bard,1,2
+Bombur,Beorn,1,2
+Bombur,Bain,1,2
+Bombur,Braga,1,2
+Bombur,Legolas,1,2
+Bombur,Meister der Seestadt,1,2
+Bombur,Sigrid,1,2
+Bombur,Tauriel,1,2
+Bombur,Thranduil,1,2
+Bombur,Tilda,1,2
+Bombur,Hilda Bianca,1,2
+Bombur,Azog,1,3
+Bombur,Bolg,1,3
+Bombur,Fimbul,1,3
+Bombur,Grinnah,1,3
+Bombur,Yazneg,1,3
+Bombur,Großer Goblin,1,3
+Bombur,Goblin-Schreiber,1,3
+Bombur,Narzug,1,3
+Bombur,Bert,1,3
+Bombur,Bill,1,3
+Bombur,Tom,1,3
+Bombur,Elrond,1,2
+Bombur,Radagast,1,2
+Bombur,Dain II,2,4
+Bombur,Smaug,1,3
+Bombur,Thror,1,4
+Bombur,Thrain II,2,4
+Gollum,Bilbo,1,3
+Alfrid,Gandalf,1,5
+Alfrid,Bilbo,1,5
+Alfrid,Thorin,1,5
+Alfrid,Bifur,1,5
+Alfrid,Bofur,1,5
+Alfrid,Fili,1,5
+Alfrid,Kili,1,5
+Alfrid,Nori,1,5
+Alfrid,Ori,1,5
+Alfrid,Oin,1,5
+Alfrid,Gloin,1,5
+Alfrid,Balin,1,5
+Alfrid,Dwalin,1,5
+Alfrid,Bombur,1,5
+Alfrid,Bard,1,2
+Alfrid,Meister der Seestadt,2,1
+Alfrid,Smaug,1,5
+Alfrid,Peridur,1,2
+Bard,Gandalf,1,5
+Bard,Bilbo,1,2
+Bard,Thorin,1,2
+Bard,Bifur,1,2
+Bard,Bofur,1,2
+Bard,Fili,1,2
+Bard,Kili,1,2
+Bard,Nori,1,2
+Bard,Ori,1,2
+Bard,Oin,1,2
+Bard,Gloin,1,2
+Bard,Balin,1,2
+Bard,Dwalin,1,2
+Bard,Bombur,1,2
+Bard,Meister der Seestadt,1,2
+Bard,Smaug,1,5
+Bard,Thranduil,1,2
+Bard,Alfrid,1,2
+Bard,Bain,2,4
+Bard,Sigrid,2,4
+Bard,Tilda,2,4
+Dain II,Gandalf,1,2
+Dain II,Bilbo,1,2
+Dain II,Thorin,2,4
+Dain II,Bifur,2,4
+Dain II,Bofur,2,4
+Dain II,Fili,2,4
+Dain II,Kili,2,4
+Dain II,Dori,2,4
+Dain II,Nori,2,4
+Dain II,Ori,2,4
+Dain II,Oin,2,4
+Dain II,Gloin,2,4
+Dain II,Balin,2,4
+Dain II,Dwalin,2,4
+Dain II,Bombur,2,4
+Dain II,Bard,1,2
+Dain II,Legolas,1,2
+Dain II,Tauriel,1,2
+Dain II,Thranduil,1,2
+Dain II,Azog,1,3
+Dain II,Bolg,1,3
+Dain II,Smaug,1,3
+Dain II,Thror,2,4
+Dain II,Thrain II,2,4
+Girion,Bard,2,4
+Girion,Tilda,2,4
+Girion,Bain,2,4
+Girion,Sigrid,2,4
+Smaug,Gandalf,1,3
+Smaug,Bilbo,1,3
+Smaug,Thorin,1,3
+Smaug,Bifur,1,3
+Smaug,Bofur,1,3
+Smaug,Fili,1,3
+Smaug,Kili,1,3
+Smaug,Dori,1,3
+Smaug,Nori,1,3
+Smaug,Ori,1,3
+Smaug,Oin,1,3
+Smaug,Gloin,1,3
+Smaug,Balin,1,3
+Smaug,Dwalin,1,3
+Smaug,Bombur,1,3
+Smaug,Alfrid,1,3
+Smaug,Bard,1,3
+Smaug,Bain,1,3
+Smaug,Braga,1,3
+Smaug,Legolas,1,3
+Smaug,Meister der Seestadt,1,3
+Smaug,Sigrid,1,3
+Smaug,Tauriel,1,3
+Smaug,Thranduil,1,3
+Smaug,Tilda,1,3
+Smaug,Peridur,1,3
+Smaug,Hilda Bianca,1,3
+Smaug,Azog,1,5
+Smaug,Bolg,1,5
+Smaug,Fimbul,1,5
+Smaug,Grinnah,1,5
+Smaug,Yazneg,1,5
+Smaug,Großer Goblin,1,5
+Smaug,Goblin-Schreiber,1,5
+Smaug,Narzug,1,5
+Smaug,Nekromant,1,5
+Smaug,Elrond,1,3
+Smaug,Galadriel,1,3
+Smaug,Saruman,1,3
+Smaug,Dain II,1,3
+Smaug,Girion,1,3
+Smaug,Thror,1,3
+Smaug,Thrain II,1,3
+Thror,Thorin,2,4
+Thror,Bifur,2,4
+Thror,Bofur,2,4
+Thror,Fili,2,4
+Thror,Kili,2,4
+Thror,Dori,2,4
+Thror,Nori,2,4
+Thror,Ori,2,4
+Thror,Oin,2,4
+Thror,Gloin,2,4
+Thror,Balin,2,4
+Thror,Dwalin,2,4
+Thror,Bombur,2,4
+Thror,Thranduil,1,3
+Thror,Azog,1,3
+Thror,Nekromant,1,3
+Thror,Dain II,2,4
+Thror,Smaug,1,3
+Thror,Thrain II,2,4
+Thrain II,Gandalf,1,2
+Thrain II,Bilbo,1,5
+Thrain II,Thorin,2,4
+Thrain II,Bifur,2,4
+Thrain II,Bofur,2,4
+Thrain II,Fili,2,4
+Thrain II,Kili,2,4
+Thrain II,Dori,2,4
+Thrain II,Nori,2,4
+Thrain II,Ori,2,4
+Thrain II,Oin,2,4
+Thrain II,Gloin,2,4
+Thrain II,Balin,2,4
+Thrain II,Dwalin,2,4
+Thrain II,Bombur,2,4
+Thrain II,Thranduil,1,3
+Thrain II,Azog,1,3
+Thrain II,Nekromant,1,3
+Thrain II,Dain II,2,4
+Thrain II,Smaug,1,3
+Wirt Butterblume,Thorin,1,5
+Wirt Butterblume,Gandalf,1,5
+Wirt Butterblume,Betsy,1,5
+Belladonna Beutlin,Gandalf,1,1
+Belladonna Beutlin,Bilbo,2,4
+Belladonna Beutlin,Frodo,1,4
+Betsy,Thorin,1,5
+Betsy,Gandalf,1,5
+Frodo,Bilbo,2,4
+Tosser,Bilbo,1,5
+Verlieswächter,Gandalf,1,5
+Verlieswächter,Galadriel,1,5
+Verlieswächter,Radagast,2,2
+Nekromant,Gandalf,1,3
+Nekromant,Bilbo,1,3
+Nekromant,Saruman,2,2
+Nekromant,Smaug,1,5
+Nekromant,Thrain II,1,3
+Nekromant,Frodo,2,3
+Bert,Gandalf,2,3
+Bert,Bilbo,2,3
+Bert,Thorin,2,3
+Bert,Bifur,2,3
+Bert,Bofur,2,3
+Bert,Fili,2,3
+Bert,Kili,2,3
+Bert,Dori,2,3
+Bert,Nori,2,3
+Bert,Ori,2,3
+Bert,Oin,2,3
+Bert,Gloin,2,3
+Bert,Balin,2,3
+Bert,Dwalin,2,3
+Bert,Bombur,2,3
+Bill,Gandalf,2,3
+Bill,Bilbo,2,3
+Bill,Thorin,2,3
+Bill,Bifur,2,3
+Bill,Bofur,2,3
+Bill,Fili,2,3
+Bill,Kili,2,3
+Bill,Dori,2,3
+Bill,Nori,2,3
+Bill,Ori,2,3
+Bill,Oin,2,3
+Bill,Gloin,2,3
+Bill,Balin,2,3
+Bill,Dwalin,2,3
+Bill,Bombur,2,3
+Tom,Gandalf,2,3
+Tom,Bilbo,2,3
+Tom,Thorin,2,3
+Tom,Bifur,2,3
+Tom,Bofur,2,3
+Tom,Fili,2,3
+Tom,Kili,2,3
+Tom,Dori,2,3
+Tom,Nori,2,3
+Tom,Ori,2,3
+Tom,Oin,2,3
+Tom,Gloin,2,3
+Tom,Balin,2,3
+Tom,Dwalin,2,3
+Tom,Bombur,2,3
+Elrond,Gandalf,2,1
+Elrond,Bilbo,2,1
+Elrond,Thorin,1,2
+Elrond,Bifur,1,2
+Elrond,Bofur,1,2
+Elrond,Fili,1,2
+Elrond,Kili,1,2
+Elrond,Dori,1,2
+Elrond,Nori,1,2
+Elrond,Ori,1,2
+Elrond,Oin,1,2
+Elrond,Gloin,1,2
+Elrond,Balin,1,2
+Elrond,Dwalin,1,2
+Elrond,Bombur,1,2
+Elrond,Galion,2,2
+Elrond,Legolas,2,2
+Elrond,Galadriel,1,2
+Elrond,Lindir,2,2
+Elrond,Frodo,2,1
+Galadriel,Gandalf,2,1
+Galadriel,Legolas,2,1
+Galadriel,Dain II,1,2
+Galadriel,Frodo,2,2
+Lindir,Dain II,1,5
+Lindir,Elrond,2,4
+Radagast,Gandalf,2,1
+Radagast,Bilbo,1,2
+Radagast,Thorin,1,2
+Radagast,Bifur,1,2
+Radagast,Bofur,1,2
+Radagast,Fili,1,2
+Radagast,Kili,1,2
+Radagast,Dori,1,2
+Radagast,Nori,1,2
+Radagast,Ori,1,2
+Radagast,Oin,1,2
+Radagast,Gloin,1,2
+Radagast,Balin,1,2
+Radagast,Dwalin,1,2
+Radagast,Bombur,1,2
+Radagast,Dain II,1,2
+Radagast,Verlieswächter,2,2
+Radagast,Saruman,2,2
+Saruman,Gandalf,2,1
+Saruman,Nekromant,2,3
+Saruman,Dain II,1,2
+Peridur,Alfrid,1,2
+Peridur,Bard,1,1
+Hilda Bianca,Bilbo,1,5
+Hilda Bianca,Balin,1,5
+Hilda Bianca,Bifur,1,5
+Hilda Bianca,Bofur,1,5
+Hilda Bianca,Bombur,1,5
+Hilda Bianca,Dori,1,5
+Hilda Bianca,Dwalin,1,5
+Hilda Bianca,Fili,1,5
+Hilda Bianca,Gloin,1,5
+Hilda Bianca,Kili,1,5
+Hilda Bianca,Nori,1,5
+Hilda Bianca,Thorin,1,5
+Hilda Bianca,Oin,1,5
+Hilda Bianca,Ori,1,5
+Hilda Bianca,Smaug,1,3
+Hilda Bianca,Alfrid,1,3
+Hilda Bianca,Bard,1,1
+Hilda Bianca,Bain,1,1
+Azog,Nekromant,1,2
+Azog,Großer Goblin,2,2
+Azog,Thorin,1,3
+Azog,Thror,1,3
+Azog,Thrain II,1,3
+Azog,Bilbo,1,3
+Azog,Balin,1,3
+Azog,Bifur,1,3
+Azog,Bofur,1,3
+Azog,Bombur,1,3
+Azog,Dori,1,3
+Azog,Dwalin,1,3
+Azog,Fili,1,3
+Azog,Gloin,1,3
+Azog,Kili,1,3
+Azog,Nori,1,3
+Azog,Thorin,1,3
+Azog,Oin,1,3
+Azog,Ori,1,3
+Azog,Gandalf,1,3
+Azog,Beorn,1,3
+Azog,Bolg,2,4
+Azog,Thranduil,1,3
+Azog,Bain,1,3
+Azog,Sigrid,1,3
+Azog,Tilda,1,3
+Azog,Fimbul,2,2
+Azog,Grinnah,2,2
+Azog,Yazneg,2,2
+Azog,Verlieswächter,2,2
+Azog,Saruman,1,2
+Azog,Dain II,1,3
+Azog,Goblin-Schreiber,2,2
+Azog,Smaug,1,5
+Bolg,Nekromant,1,2
+Bolg,Großer Goblin,2,2
+Bolg,Azog,2,4
+Bolg,Thorin,1,3
+Bolg,Thror,1,3
+Bolg,Thrain II,1,3
+Bolg,Bilbo,1,3
+Bolg,Balin,1,3
+Bolg,Bifur,1,3
+Bolg,Bofur,1,3
+Bolg,Bombur,1,3
+Bolg,Dori,1,3
+Bolg,Dwalin,1,3
+Bolg,Fili,1,3
+Bolg,Gloin,1,3
+Bolg,Kili,1,3
+Bolg,Nori,1,3
+Bolg,Thorin,1,3
+Bolg,Oin,1,3
+Bolg,Ori,1,3
+Bolg,Gandalf,1,3
+Bolg,Beorn,1,3
+Bolg,Thranduil,1,3
+Bolg,Tauriel,1,3
+Bolg,Legolas,1,3
+Bolg,Bain,1,3
+Bolg,Sigrid,1,3
+Bolg,Tilda,1,3
+Bolg,Fimbul,2,2
+Bolg,Grinnah,2,2
+Bolg,Dain II,1,3
+Bolg,Verlieswächter,2,2
+Bolg,Saruman,1,2
+Bolg,Yazneg,2,2
+Bolg,Goblin-Schreiber,2,2
+Bolg,Smaug,1,5
+Fimbul,Nekromant,1,2
+Fimbul,Großer Goblin,2,2
+Fimbul,Bilbo,1,3
+Fimbul,Balin,1,3
+Fimbul,Bifur,1,3
+Fimbul,Bofur,1,3
+Fimbul,Bombur,1,3
+Fimbul,Dori,1,3
+Fimbul,Dwalin,1,3
+Fimbul,Fili,1,3
+Fimbul,Gloin,1,3
+Fimbul,Kili,1,3
+Fimbul,Nori,1,3
+Fimbul,Thorin,1,3
+Fimbul,Oin,1,3
+Fimbul,Ori,1,3
+Fimbul,Azog,2,2
+Fimbul,Bolg,2,2
+Fimbul,Thranduil,1,3
+Fimbul,Legolas,1,3
+Fimbul,Tauriel,1,3
+Fimbul,Bard,1,3
+Fimbul,Bain,1,3
+Fimbul,Sigrid,1,3
+Fimbul,Tilda,1,3
+Fimbul,Grinnah,2,2
+Fimbul,Yazneg,2,2
+Fimbul,Verlieswächter,2,2
+Fimbul,Saruman,1,2
+Fimbul,Dain II,1,3
+Fimbul,Goblin-Schreiber,2,2
+Fimbul,Smaug,1,5
+Grinnah,Nekromant,1,2
+Grinnah,Großer Goblin,2,2
+Grinnah,Bilbo,1,3
+Grinnah,Balin,1,3
+Grinnah,Bifur,1,3
+Grinnah,Bofur,1,3
+Grinnah,Bombur,1,3
+Grinnah,Dori,1,3
+Grinnah,Dwalin,1,3
+Grinnah,Fili,1,3
+Grinnah,Gloin,1,3
+Grinnah,Kili,1,3
+Grinnah,Nori,1,3
+Grinnah,Thorin,1,3
+Grinnah,Oin,1,3
+Grinnah,Ori,1,3
+Grinnah,Azog,2,2
+Grinnah,Bolg,2,2
+Grinnah,Gandalf,1,3
+Grinnah,Yazneg,2,2
+Grinnah,Fimbul,2,2
+Grinnah,Verlieswächter,2,2
+Grinnah,Saruman,1,2
+Grinnah,Dain II,1,3
+Grinnah,Goblin-Schreiber,2,2
+Grinnah,Smaug,1,5
+Yazneg,Nekromant,1,2
+Yazneg,Großer Goblin,2,2
+Yazneg,Bilbo,1,3
+Yazneg,Balin,1,3
+Yazneg,Bifur,1,3
+Yazneg,Bofur,1,3
+Yazneg,Bombur,1,3
+Yazneg,Dori,1,3
+Yazneg,Dwalin,1,3
+Yazneg,Fili,1,3
+Yazneg,Gloin,1,3
+Yazneg,Kili,1,3
+Yazneg,Nori,1,3
+Yazneg,Thorin,1,3
+Yazneg,Oin,1,3
+Yazneg,Ori,1,3
+Yazneg,Azog,2,2
+Yazneg,Bolg,2,2
+Yazneg,Gandalf,1,3
+Yazneg,Azog,2,2
+Yazneg,Bolg,2,2
+Yazneg,Grinnah,2,2
+Yazneg,Fimbul,2,2
+Yazneg,Verlieswächter,2,2
+Yazneg,Saruman,1,2
+Yazneg,Dain II,1,3
+Yazneg,Goblin-Schreiber,2,2
+Yazneg,Smaug,1,5
+Großer Goblin,Nekromant,1,2
+Großer Goblin,Azog,2,2
+Großer Goblin,Bolg,2,2
+Großer Goblin,Fimbul,2,2
+Großer Goblin,Grinnah,2,2
+Großer Goblin,Yazneg,2,2
+Großer Goblin,Bilbo,1,3
+Großer Goblin,Balin,1,3
+Großer Goblin,Bifur,1,3
+Großer Goblin,Bofur,1,3
+Großer Goblin,Bombur,1,3
+Großer Goblin,Dori,1,3
+Großer Goblin,Dwalin,1,3
+Großer Goblin,Fili,1,3
+Großer Goblin,Gloin,1,3
+Großer Goblin,Kili,1,3
+Großer Goblin,Nori,1,3
+Großer Goblin,Thorin,1,3
+Großer Goblin,Oin,1,3
+Großer Goblin,Ori,1,3
+Großer Goblin,Gandalf,1,3
+Großer Goblin,Verlieswächter,2,2
+Großer Goblin,Saruman,1,2
+Großer Goblin,Dain II,1,3
+Großer Goblin,Goblin-Schreiber,2,2
+Großer Goblin,Smaug,1,5
+Goblin-Schreiber,Nekromant,1,2
+Goblin-Schreiber,Großer Goblin,2,2
+Goblin-Schreiber,Bilbo,1,3
+Goblin-Schreiber,Balin,1,3
+Goblin-Schreiber,Bifur,1,3
+Goblin-Schreiber,Bofur,1,3
+Goblin-Schreiber,Bombur,1,3
+Goblin-Schreiber,Dori,1,3
+Goblin-Schreiber,Dwalin,1,3
+Goblin-Schreiber,Fili,1,3
+Goblin-Schreiber,Gloin,1,3
+Goblin-Schreiber,Kili,1,3
+Goblin-Schreiber,Nori,1,3
+Goblin-Schreiber,Thorin,1,3
+Goblin-Schreiber,Oin,1,3
+Goblin-Schreiber,Ori,1,3
+Goblin-Schreiber,Azog,2,2
+Goblin-Schreiber,Bolg,2,2
+Goblin-Schreiber,Gandalf,1,3
+Goblin-Schreiber,Azog,2,2
+Goblin-Schreiber,Bolg,2,2
+Goblin-Schreiber,Grinnah,2,2
+Goblin-Schreiber,Fimbul,2,2
+Goblin-Schreiber,Verlieswächter,2,2
+Goblin-Schreiber,Saruman,1,2
+Goblin-Schreiber,Dain II,1,3
+Goblin-Schreiber,Yazneg,2,2
+Goblin-Schreiber,Smaug,1,5
+Narzug,Azog,2,2
+Narzug,Bolg,2,2
+Narzug,Fimbul,2,2
+Narzug,Grinnah,2,2
+Narzug,Yazneg,2,2
+Narzug,Großer Goblin,2,2
+Narzug,Nekromant,1,2
+Narzug,Bilbo,1,3
+Narzug,Balin,1,3
+Narzug,Bifur,1,3
+Narzug,Bofur,1,3
+Narzug,Bombur,1,3
+Narzug,Dori,1,3
+Narzug,Dwalin,1,3
+Narzug,Fili,1,3
+Narzug,Gloin,1,3
+Narzug,Kili,1,3
+Narzug,Nori,1,3
+Narzug,Thorin,1,3
+Narzug,Oin,1,3
+Narzug,Ori,1,3
+Narzug,Gandalf,1,3
+Narzug,Verlieswächter,2,2
+Narzug,Saruman,1,2
+Narzug,Dain II,1,3
+Narzug,Goblin-Schreiber,2,2
+Narzug,Smaug,1,5
+Beorn,Fili,1,2
+Beorn,Kili,1,2
+Beorn,Dori,1,2
+Beorn,Nori,1,2
+Beorn,Ori,1,2
+Beorn,Oin,1,2
+Beorn,Gloin,1,2
+Beorn,Balin,1,2
+Beorn,Dwalin,1,2
+Beorn,Bombur,1,2
+Beorn,Bolg,1,3
+Beorn,Azog,1,3
+Bain,Bombur,1,2
+Bain,Bilbo,1,2
+Bain,Thorin,1,2
+Bain,Bifur,1,2
+Bain,Bofur,1,2
+Bain,Fili,1,2
+Bain,Kili,1,2
+Bain,Dori,1,2
+Bain,Nori,1,2
+Bain,Ori,1,2
+Bain,Oin,1,2
+Bain,Gloin,1,2
+Bain,Balin,1,2
+Bain,Dwalin,1,2
+Braga,Bilbo,1,2
+Braga,Thorin,1,2
+Braga,Bifur,1,2
+Braga,Bofur,1,2
+Braga,Fili,1,2
+Braga,Kili,1,2
+Braga,Dori,1,2
+Braga,Nori,1,2
+Braga,Ori,1,2
+Braga,Oin,1,2
+Braga,Gloin,1,2
+Braga,Balin,1,2
+Braga,Dwalin,1,2
+Braga,Bombur,1,2
+Galion,Bilbo,1,2
+Galion,Thorin,1,2
+Legolas,Bilbo,1,2
+Legolas,Thorin,1,2
+Legolas,Bifur,1,2
+Legolas,Gandalf,1,2
+Legolas,Bofur,1,2
+Legolas,Fili,1,2
+Legolas,Kili,1,2
+Legolas,Dori,1,2
+Legolas,Nori,1,2
+Legolas,Ori,1,2
+Legolas,Oin,1,2
+Legolas,Gloin,1,2
+Legolas,Balin,1,2
+Legolas,Dwalin,1,2
+Legolas,Bombur,1,2
+Legolas,Bolg,1,3
+Legolas,Tauriel,2,1
+Meister der Seestadt,Bilbo,1,5
+Meister der Seestadt,Thorin,1,2
+Meister der Seestadt,Bifur,1,2
+Meister der Seestadt,Bofur,1,2
+Meister der Seestadt,Fili,1,2
+Meister der Seestadt,Kili,1,2
+Meister der Seestadt,Dori,1,2
+Meister der Seestadt,Nori,1,2
+Meister der Seestadt,Ori,1,2
+Meister der Seestadt,Oin,1,2
+Meister der Seestadt,Gloin,1,2
+Meister der Seestadt,Balin,1,2
+Meister der Seestadt,Dwalin,1,2
+Meister der Seestadt,Bombur,1,2
+Sigrid,Bilbo,1,2
+Sigrid,Thorin,1,2
+Sigrid,Bifur,1,2
+Sigrid,Bofur,1,2
+Sigrid,Fili,1,2
+Sigrid,Kili,1,2
+Sigrid,Dori,1,2
+Sigrid,Nori,1,2
+Sigrid,Ori,1,2
+Sigrid,Oin,1,2
+Sigrid,Gloin,1,2
+Sigrid,Balin,1,2
+Sigrid,Dwalin,1,2
+Sigrid,Bombur,1,2
+Tauriel,Gandalf,1,2
+Tauriel,Bilbo,1,2
+Tauriel,Thorin,1,2
+Tauriel,Bifur,1,2
+Tauriel,Bofur,1,2
+Tauriel,Fili,1,2
+Tauriel,Kili,2,6
+Tauriel,Dori,1,2
+Tauriel,Nori,1,2
+Tauriel,Ori,1,2
+Tauriel,Oin,1,2
+Tauriel,Gloin,1,2
+Tauriel,Balin,1,2
+Tauriel,Dwalin,1,2
+Tauriel,Bombur,1,2
+Tauriel,Legolas,2,1
+Thranduil,Gandalf,2,2
+Thranduil,Bilbo,1,2
+Thranduil,Thorin,1,2
+Thranduil,Bifur,1,2
+Thranduil,Bofur,1,2
+Thranduil,Fili,1,2
+Thranduil,Kili,1,2
+Thranduil,Dori,1,2
+Thranduil,Nori,1,2
+Thranduil,Ori,1,2
+Thranduil,Oin,1,2
+Thranduil,Gloin,1,2
+Thranduil,Balin,1,2
+Thranduil,Dwalin,1,2
+Thranduil,Bombur,1,2
+Tilda,Bilbo,1,2
+Tilda,Thorin,1,2
+Tilda,Bifur,1,2
+Tilda,Bofur,1,2
+Tilda,Fili,1,2
+Tilda,Kili,1,2
+Tilda,Dori,1,2
+Tilda,Nori,1,2
+Tilda,Ori,1,2
+Tilda,Oin,1,2
+Tilda,Gloin,1,2
+Tilda,Balin,1,2
+Tilda,Dwalin,1,2
+Tilda,Bombur,1,2
+Ringgeister,Nekromant,2,2
+Ringgeister,Gandalf,1,3
+Ringgeister,Radagast,1,3
+Ringgeister,Elrond,1,3
+Ringgeister,Galadriel,1,3
+Ringgeister,Saruman,1,3
+Nekromant,Ringgeister,2,2
+Gandalf,Ringgeister,1,3
+Radagast,Ringgeister,1,3
+Elrond,Ringgeister,1,3
+Galadriel,Ringgeister,1,3
+Saruman,Ringgeister,1,3

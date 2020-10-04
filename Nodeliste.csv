@@ -1,0 +1,60 @@
+id,name,sex,age,origin,location,medium
+Gandalf,Gandalf der Graue,2,5,6,10,3
+Bilbo,Bilbo Beutlin,2,2,1,1,3
+Thorin,Thorin Eichenschild,2,4,5,2,3
+Bifur,Bifur der Zitternde,2,2,5,8,3
+Bofur,Bofur der Zitternde,2,2,5,8,3
+Fili,Fili der Verberger,2,2,5,2,3
+Kili,Kili der Keilschmied,2,2,5,2,3
+Dori,Dori der Narr,2,2,5,9,3
+Nori,Nori der Winzling,2,2,5,9,3
+Ori,Ori der Verrückte,2,2,5,9,3
+Oin,Oin der Furchtsame,2,4,5,2,3
+Gloin,Gloin der Glühende ,2,4,5,2,3
+Balin,Balin Sohn des Fundin,2,4,5,2,3
+Dwalin,Dwalin der Schlafende,2,4,5,2,3
+Bombur,Bombur der Dicke,2,2,5,8,3
+Gollum,Gollum Smeagol,2,5,1,1,3
+Alfrid,Alfrid Lickspittle,2,1,4,7,2
+Bard,Bard der Bogenschütze,2,1,4,7,3
+Beorn,Beorn der Hautwechsler,2,99,7,6,3
+Bain,Bain König von Thal,2,1,4,7,2
+Braga,Braga Befehlshaber der Wache,2,99,4,7,2
+Galion,Galion Bedienstester von Thranduil,2,99,2,3,3
+Legolas,Legolas Sohn von Thranduil,2,5,2,3,2
+Meister der Seestadt,Bürgermeister von Esgaroth,2,99,4,7,3
+Sigrid,Sigrid Bardsdottir,1,1,4,7,2
+Tauriel,Tauriel Tochter des Waldes,1,5,2,3,2
+Thranduil,Thranduil König unter Eiche und Buche,1,5,2,3,3
+Tilda,Tilda Tochter von Bard,1,1,4,7,2
+Peridur,Peridur Wächter des Zolltores der Seestadt,2,99,4,7,2
+Hilda Bianca,Hilda Bianca Marktverkäuferin,1,1,4,7,2
+Azog,Azog der Orkhäuptling,2,99,3,2,2
+Bolg,Sohn von Azog,2,99,3,2,3
+Fimbul,Fimbul aus Azogs Armee,2,99,3,7,2
+Grinnah,Grinnah der Handlanger vom Großen Ork,2,99,3,2,2
+Yazneg,Yazneg der Orkjäger,2,99,3,5,2
+Großer Goblin,Großer Goblin,2,99,3,5,3
+Goblin-Schreiber,Goblin-Schreiber,2,99,3,5,2
+Narzug,Narzug der Gundabadork unter Azogs Kommando,2,99,3,3,2
+Verlieswächter,Verlieswächter,2,99,3,5,2
+Nekromant,Nekromant Synonym für Sauron,2,5,8,3,2
+Ringgeister,Schwarze Reiter,2,5,11,13,2
+Bert,Bert Huggins,2,99,9,4,2
+Bill,Bill Huggins,2,99,9,4,3
+Tom,Tom Huggins,2,99,9,4,3
+Elrond,Elrond,2,5,2,4,3
+Galadriel,Herrin von Lothlorien,1,5,2,4,3
+Lindir,Lindir,2,5,2,4,2
+Radagast,Radagast der Braune,2,5,6,10,3
+Saruman,Saruman der Weiße,2,5,6,12,3
+Dain II,Dáin II. Eisenfuß,2,5,5,3,3
+Girion,Girion Fürst von Thal,2,1,4,2,2
+Smaug,Smaug der Goldene,2,5,10,2,3
+Thror,König Thror,2,4,5,2,3
+Thrain II,König Thrain Sohn des Thror,2,5,5,2,3
+Wirt Butterblume,Gerstenmann Butterblume,2,2,4,11,2
+Belladonna Beutlin,Belladonna Beutlin,1,2,1,1,2
+Betsy,Betsy Butterblume,1,99,4,11,2
+Frodo,Frodo Beutlin,2,1,1,1,2
+Tosser,Tosser Grubb,2,3,1,1,2
