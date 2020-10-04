@@ -1,61 +1,55 @@
-**EDGE-Attribute**
-
-from = id des Knoten
-to = id des Knoten
-
-**medium**
-
-1= Buch
-2= Film
-3= Film und Buch
-
-**book chapter**
-
-Kapitel 1 bis 19
-
-**film section**
-
+EDGE-Attribute (Location)
+book chapter
+1= Kapitel 3 (Eine kurze Rast)
+2= Kapitel 8 und 9 (Fliegen und Spinnen - Fässer unverzollt)
+3= Kapitel 10 (Ein warmes Willkommen)
+4= Kapitel 19 (Das letzte Kapitel)
+film section
 1= part 1
 2= part 2
 3= part 3
-
-**weight**
-
+film location
+1= Moria Krieg
+2= Bruchtal
+3= Düsterwald inkl. Waldelbenfestung
+4= Seestadt
+5= Dol Goldur
+6= Dol Goldur
+7= Auenland Ende 
+EDGE-Attribute (Netzwerk)
+from = id des Knoten
+to = id des Knoten
+weight
 1= schwache Beziehung
 2= starke Beziehung 
-
-**relationship**
-
+relationship
 1= Freundschaft
 2= Allianz 
 3= Feind
 4= Familie
-5= Fremde
-6= Liebe
-
-
-**NODE-Attribute**
-
-**id**
+5= Fremde                                                                                                                              6= Liebe
+NODE-Attribute
+id
 
 Identische ID wie aus der edgelist zur Identifikation der Knoten. In diesem Fall sind alle personenbezogenen Daten aus der Hobbit Buch- und Filmreihe.
 
-**sex**
+
+sex
 
 1= weiblich
 2= männlich
 3= unknown
 
-**age**
+age
 
 1= bis 50 Jahre
 2= 50 bis 100 Jahre
 3= 100 bis 150 Jahre
 4= 150 bis 200 Jahre
 5= über 200 Jahre
-99= unknown
+99= unknown 
 
-**origin**
+origin
 
 1= Hobbit
 2= Elb
@@ -67,8 +61,9 @@ Identische ID wie aus der edgelist zur Identifikation der Knoten. In diesem Fall
 8= Maia
 9= Troll
 10= Drache
+11= Nazgul
 
-**location**
+location
 
 1= Das Auenland
 2= Erebor
@@ -79,6 +74,12 @@ Identische ID wie aus der edgelist zur Identifikation der Knoten. In diesem Fall
 7= Esgaroth
 8= Moria
 9= Blauer Berg
-10= Valinor
+10=Valinor
 11= Bree
 12= Isengart
+13=Mordor
+
+medium
+1= Buch
+2= Film
+3= Film und Buch
