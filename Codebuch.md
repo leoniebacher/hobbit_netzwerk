@@ -1,10 +1,11 @@
 **EDGE-Attribute (Location)**
 
 **book chapter**
-1= Kapitel 3 (Eine kurze Rast)
-2= Kapitel 8 und 9 (Fliegen und Spinnen - Fässer unverzollt)
+<p>1= Kapitel 3 (Eine kurze Rast)</p>
+<p>2= Kapitel 8 und 9 (Fliegen und Spinnen - Fässer unverzollt)</p>
 3= Kapitel 10 (Ein warmes Willkommen)
 4= Kapitel 19 (Das letzte Kapitel)
+
 
 **film section**
 1= part 1
