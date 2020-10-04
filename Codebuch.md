@@ -3,23 +3,23 @@
 **book chapter**
 <p>1= Kapitel 3 (Eine kurze Rast)</p>
 <p>2= Kapitel 8 und 9 (Fliegen und Spinnen - Fässer unverzollt)</p>
-3= Kapitel 10 (Ein warmes Willkommen)
-4= Kapitel 19 (Das letzte Kapitel)
+<p>3= Kapitel 10 (Ein warmes Willkommen)</p>
+<p>4= Kapitel 19 (Das letzte Kapitel)</p>
 
 
 **film section**
-1= part 1
-2= part 2
-3= part 3
+<p>1= part 1</p>
+<p>2= part 2</p>
+<p>3= part 3</p>
 
 **film location**
-1= Moria Krieg
-2= Bruchtal
-3= Düsterwald inkl. Waldelbenfestung
-4= Seestadt
-5= Dol Goldur
-6= Dol Goldur
-7= Auenland Ende
+<p>1= Moria Krieg</p>
+<p>2= Bruchtal</p>
+<p>3= Düsterwald inkl. Waldelbenfestung</p>
+<p>4= Seestadt</p>
+<p>5= Dol Goldur</p>
+<p>6= Dol Goldur</p>
+<p>7= Auenland Ende</p>
 
 
 **EDGE-Attribute (Netzwerk)**
