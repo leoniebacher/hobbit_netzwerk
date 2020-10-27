@@ -89,7 +89,7 @@
 <p>13=Mordor
 
 **medium**
-<p>1= Buch
+
 <p>2= Film
 <p>3= Film und Buch
   
